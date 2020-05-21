@@ -3,3 +3,5 @@ First statement
 Line two.
 
 Check git diff.
+
+Just to stage.
